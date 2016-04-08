@@ -1,0 +1,134 @@
+fileFormatVersion: 2
+guid: fa8b46278b5cc41c3a97bace27ea9dc0
+timeCreated: 1459531357
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arma_spiketrap
+    100002: Camera
+    100004: Camera_001
+    100006: Camera_002
+    100008: Camera_004
+    100010: Camera_005
+    100012: Camera_006
+    100014: Lamp
+    100016: Lamp_001
+    100018: Lamp_002
+    100020: Lamp_003
+    100022: Lamp_004
+    100024: Lamp_005
+    100026: Lamp_006
+    100028: Lamp_007
+    100030: Plane
+    100032: Point
+    100034: Point_001
+    100036: Point_002
+    100038: //RootNode
+    100040: Spikes
+    100042: Spiketrap
+    100044: Spiketrap_mainbody
+    100046: Spiketrap_spikes
+    400000: Arma_spiketrap
+    400002: Camera
+    400004: Camera_001
+    400006: Camera_002
+    400008: Camera_004
+    400010: Camera_005
+    400012: Camera_006
+    400014: Lamp
+    400016: Lamp_001
+    400018: Lamp_002
+    400020: Lamp_003
+    400022: Lamp_004
+    400024: Lamp_005
+    400026: Lamp_006
+    400028: Lamp_007
+    400030: Plane
+    400032: Point
+    400034: Point_001
+    400036: Point_002
+    400038: //RootNode
+    400040: Spikes
+    400042: Spiketrap
+    400044: Spiketrap_mainbody
+    400046: Spiketrap_spikes
+    2300000: Plane
+    2300002: Spiketrap_mainbody
+    2300004: Spiketrap_spikes
+    3300000: Plane
+    3300002: Spiketrap_mainbody
+    3300004: Spiketrap_spikes
+    4300000: Spiketrap
+    4300002: Plane
+    4300004: Spiketrap_spikes
+    4300006: Spiketrap_mainbody
+    7400000: Default Take
+    7400002: Arma_spiketrapAction
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Spiketrap
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
